@@ -2,7 +2,7 @@
 
 ## Description
 
-Mad Libs is a word game where the player provides different types of words without knowing the final story. The program then places those words into a story template and displays the funny result.
+Mad Labs is a word game where the player provides different types of words without knowing the final story. The program then places those words into a story template and displays the funny result.
 
 This project is a Python console game based on the three Mad Libs templates provided in the assignment.
 
