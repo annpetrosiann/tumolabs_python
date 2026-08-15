@@ -28,9 +28,13 @@ station_project1/
 
 ## How to Run
 
-Make sure Python 3 is installed.
+1. Clone the repository:
+   ```bash
+   git clone <my-repository-url>
+   cd <repository-folder>
+   ```
 
-Open a terminal in the project folder and run:
+2. Make sure Python 3 is installed. Run the script using Python 3:
 
 ```bash
 python option1.py
