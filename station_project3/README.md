@@ -57,3 +57,8 @@ python3 timer.py
 ```text
 0:5:32
 ```
+
+## Example
+<img width="895" height="618" alt="Screenshot 2026-08-13 at 17 28 54" src="https://github.com/user-attachments/assets/b0b5e44d-791c-4d65-8024-6bd51ba2d2cf" />
+
+
